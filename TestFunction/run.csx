@@ -17,7 +17,7 @@
 #r "../packages/Microsoft.AspNet.WebApi.WebHost/lib/net45/System.Web.Http.WebHost.dll"
 #r "../packages/Microsoft.Azure.WebJobs.Extensions/lib/net45/Microsoft.Azure.WebJobs.Extensions.dll"
 #r "../packages/Microsoft.Data.Services.Client/lib/net40/Microsoft.Data.Services.Client.dll"
-#r "../packages/WindowsAzure.Storage/lib/net45/Microsoft.WindowsAzure.Storage.dll"
+//#r "../packages/WindowsAzure.Storage/lib/net45/Microsoft.WindowsAzure.Storage.dll"
 #load "dep1.csx"
 #r "System.Net.Http"
 
